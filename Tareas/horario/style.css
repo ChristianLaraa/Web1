@@ -1,0 +1,56 @@
+body {
+    background-color: #000;
+    color: #fff;
+
+}
+h1 {
+    text-align: center;
+    margin-top: 4rem;
+}
+table {
+    margin: auto;
+    margin-top: 2rem;
+    width: 90%;
+    gap: 20px;
+}
+td {
+    font-family: "Arial", sans-serif;
+    gap: 20px;
+    padding: 10px;
+    text-align: center;
+}
+.materias {
+    background-color: rgb(54, 199, 122);
+    color: #ffffff;
+}
+.dias{
+    background-color: #705800;
+    color: #fff;
+}
+.social {
+    background-color: #d3400a
+}
+.programacion {
+    background-color: #b6099c;
+}
+.arq {
+    background-color: #0213ff;
+}
+.mate {
+    background-color: #09a2b6;
+}
+.libre {
+    background-color: #4f4f50;
+}
+h2 {
+    text-align: center;
+    margin-top: 3rem;
+}
+.listaCol {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+    margin-top: 0rem;
+    text-align: center;
+    padding: 10px;
+    gap: 10px;
+}
