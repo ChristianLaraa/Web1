@@ -1,0 +1,51 @@
+@import url(https://db.onlinewebfonts.com/c/67821e7ef9a2952d6e7757a6cae5a826?family=Novecento+WideBold);
+body {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    padding-top: 2rem;
+
+}
+.fondoblanco {
+    background-color: rgb(0, 0, 0);
+    color: rgb(7, 153, 121);
+    border-radius: 10px;
+}
+.textoTitle {
+    text-align: center;
+    font-family: "Novecento Wide Bold", sans-serif;
+    font-size: 25px;
+    color: rgb(155, 204, 153);
+    text-transform: uppercase;
+}
+.textoParr {
+    color: rgb(105, 143, 94);
+}
+.fondoContainer {
+    background-color: rgb(0, 0, 0);
+}
+.imagen1 {
+    width: 150px;
+    height: 150px;
+}
+.texto1 {
+    text-align: center;
+    font-family: "Novecento Wide Bold", sans-serif;
+    font-size: 4.5rem;
+    text-transform: uppercase;
+}
+.vinetas {
+    text-align: center;
+}
+.border {
+    border: white;
+    border-radius: 10px;
+}
+.fesa {
+    background-color: rgb(191, 255, 0);
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2rem;
+    margin-bottom: 5px;
+    text-align: center;
+    margin-top: 3rem;
+}
