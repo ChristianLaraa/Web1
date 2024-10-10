@@ -1,0 +1,22 @@
+.pagina1 {
+    text-align: center;
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 48%, rgba(252,176,69,1) 100%);
+}
+
+.pagina2 {
+    text-align: center;
+    background: rgb(18,35,230);
+    background: radial-gradient(circle, rgba(18,35,230,1) 0%, rgba(131,76,215,1) 100%);
+}
+
+.texto{
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+}
+
+.cuadro {
+    border: 2px solid black; 
+    padding: 10px; 
+    display: inline-block 
+}
